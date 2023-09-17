@@ -1,0 +1,18 @@
+.title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.desc {
+    max-width: 100%;
+    display: -webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-Overflow: ellipsis;
+   
+}
+.image{
+    width: 18rem;
+    height: 10rem;
+}
